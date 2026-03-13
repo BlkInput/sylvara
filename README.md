@@ -149,7 +149,7 @@ Repeat options: `none` · `daily` · `weekly`
 
 ## Companion Bot
 
-Sylvara is a sibling bot to **[Cheru](https://github.com/grxomen/cheru)**, the garden economy bot for The Gardens.
+Sylvara is a sibling bot to **[~~__Cheru__~~**, the garden economy bot for The Gardens.
 They live side by side — Cheru handles the world, Sylvara keeps the people in it grounded.
 
 ---
