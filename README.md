@@ -149,8 +149,8 @@ Repeat options: `none` · `daily` · `weekly`
 
 ## Companion Bot
 
-Sylvara is a sibling bot to **[~~__Cheru__~~**, the garden economy bot for The Gardens.
-They live side by side — Cheru handles the world, Sylvara keeps the people in it grounded.
+Sylvara is a sibling bot to **~~__Cheru__~~**, the garden economy bot for The Gardens.
+They live side by side — ~~__Cheru__~~ handles the world, Sylvara keeps the people in it grounded.
 
 ---
 
