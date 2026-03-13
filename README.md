@@ -14,7 +14,7 @@
 ---
 
 Sylvara is a calm, advisory Discord bot built for **The Gardens** community.
-She handles wellness tracking, productivity, a rich ticket system, and Twitch integration — all in one bot, separate from [Cheru](https://github.com/grxomen/cheru).
+She handles wellness tracking, productivity, a rich ticket system, and Twitch integration — all in one bot, separate from __Cheru__.
 
 ---
 
